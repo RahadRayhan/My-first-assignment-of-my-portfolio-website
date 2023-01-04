@@ -2,10 +2,10 @@ section{
     display: flex;
 }
 .text-color{
-   color: blue;
+   color: coral;
 }
 .text-color-2{
-    color: darkgreen;
+    color: darkblue;
 }
 #hire{
     text-decoration: none;
@@ -27,6 +27,14 @@ section{
     width: 50%;
     padding-left: 5%;
     padding-right: 10% ;
+}
+.half-width img{
+    width: 100%;
+    padding-top: 20%;
+    padding-right: 10%;
+}
+.dream-section{
+    display: flex;
 }
 .container-1{
 display: flex;
@@ -50,4 +58,10 @@ display: flex;
     margin-left: 50px;
     margin-right: 50px;
     margin-bottom: 70px;
+}
+footer{
+color: black;
+}
+.Experience{
+    background-image: url(image/Experince\ \(1\).png);
 }
