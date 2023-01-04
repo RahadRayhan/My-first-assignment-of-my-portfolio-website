@@ -28,3 +28,26 @@ section{
     padding-left: 5%;
     padding-right: 10% ;
 }
+.container-1{
+display: flex;
+}
+#first-part{
+    width: 50%;
+    box-shadow: 20px 20px 60px gray;
+    border-left: 10px solid rgb(190, 25, 25);
+    border-radius: 30px;
+    padding: 30px 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 70px;
+}
+#second-part{
+    width: 50%;
+    box-shadow: 20px 20px 60px gray;
+    border-left: 10px solid blue ;
+    border-radius: 30px;
+    padding: 30px 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 70px;
+}
