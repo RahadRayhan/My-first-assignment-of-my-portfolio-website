@@ -23,3 +23,8 @@ section{
     width: 40%;
     padding-bottom: 20%;;
 }
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 10% ;
+}
